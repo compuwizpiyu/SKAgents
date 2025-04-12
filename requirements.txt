@@ -1,0 +1,17 @@
+azure-search-documents
+azure-core
+azure-identity
+azure-storage-blob
+autogen-agentchat~=0.2
+#ultralytics==8.3.19
+scikit-learn==1.5.2
+pyautogen
+fastapi
+websockets
+python-jose
+python-multipart
+werkzeug==2.0.3
+uvicorn[standard]
+sqlalchemy
+pandas
+openpyxl
